@@ -1,0 +1,20 @@
+{
+  "name": "mening-codim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "logger.js",
+    "dev": "nodemon logger.js"
+  },
+  "keywords": [],
+  "author": "Ergashev Tursunmurod",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "joi": "^17.7.0",
+    "mongoose": "^6.8.3",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0"
+  }
+}
